@@ -1,5 +1,6 @@
 # Steam版俠客風雲傳還原1.0.3.1模組
-* 將下載的檔案解壓縮到俠客風雲傳的安裝路徑 steamapps\common\Tale of Wuxia
+1. 下載[1.0.3.2mod.zip](https://github.com/quenchjian/taleofwuxia/releases/tag/1.0.3.2)檔案
+2. 將下載的檔案解壓縮到俠客風雲傳的安裝路徑 steamapps\common\Tale of Wuxia
 
 # 修改體力消耗量
 1. 從 Mods 資料夾內找到 DevelopBtnData.txt 檔案
